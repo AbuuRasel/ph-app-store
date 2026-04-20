@@ -1,0 +1,272 @@
+[
+  {
+    "image": "https://www.logo.wine/a/logo/WhatsApp/WhatsApp-Logo.wine.svg",
+    "title": "WhatsApp Messenger",
+    "companyName": "WhatsApp LLC",
+    "id": 1,
+    "description": "WhatsApp Messenger is a free messaging app available for Android and other smartphones. WhatsApp uses your phone's Internet connection to let you message and call friends and family. Switch from SMS to WhatsApp to send and receive messages, calls, photos, videos, documents, and voice messages. Stay connected with people no matter where they are, safely and securely with end-to-end encryption.",
+    "size": 80,
+    "reviews": "172000K",
+    "ratingAvg": 4.5,
+    "downloads": "5000M",
+    "ratings": [
+      { "name": "1 star", "count": 1200000 },
+      { "name": "2 star", "count": 2400000 },
+      { "name": "3 star", "count": 8400000 },
+      { "name": "4 star", "count": 25000000 },
+      { "name": "5 star", "count": 136000000 }
+    ]
+  },
+  {
+    "image": "https://www.logo.wine/a/logo/YouTube/YouTube-Logo.wine.svg",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 2,
+    "description": "Get the official YouTube app on Android phones and tablets. See what the world is watching -- from the hottest music videos to what's trending in gaming, entertainment, news, and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.",
+    "size": 120,
+    "reviews": "210000K",
+    "ratingAvg": 4.3,
+    "downloads": "10000M",
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 10000000 },
+      { "name": "4 star", "count": 40000000 },
+      { "name": "5 star", "count": 153000000 }
+    ]
+  },
+  {
+    "image": "https://www.logo.wine/a/logo/Amazon_(company)/Amazon_(company)-Logo.wine.svg",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon Mobile LLC",
+    "id": 3,
+    "description": "Amazon Shopping makes it easy to search, compare, and buy millions of products. Shop deals across every category, track your orders, and get fast delivery with Prime. Discover new arrivals, daily deals, and exclusive discounts — all from the convenience of your phone.",
+    "size": 95,
+    "reviews": "98000K",
+    "ratingAvg": 4.4,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 900000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 70600000 }
+    ]
+  },
+  {
+    "image": "https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg",
+    "title": "Instagram",
+    "companyName": "Meta Platforms Inc",
+    "id": 4,
+    "description": "Instagram is a free photo and video sharing app. People can upload photos or videos to our service and share them with their followers or with a select group of friends. You can also view, comment and like posts shared by your friends on Instagram. Keep up with your friends and family wherever you are.",
+    "size": 110,
+    "reviews": "185000K",
+    "ratingAvg": 4.2,
+    "downloads": "5000M",
+    "ratings": [
+      { "name": "1 star", "count": 5000000 },
+      { "name": "2 star", "count": 6000000 },
+      { "name": "3 star", "count": 12000000 },
+      { "name": "4 star", "count": 35000000 },
+      { "name": "5 star", "count": 127000000 }
+    ]
+  },
+  {
+    "image": "https://www.logo.wine/a/logo/Netflix/Netflix-Logo.wine.svg",
+    "title": "Netflix",
+    "companyName": "Netflix Inc",
+    "id": 5,
+    "description": "Netflix is the world's leading streaming entertainment service with 200+ million paid memberships in over 190 countries. Watch TV series, films and more from anywhere, anytime, on any internet-connected screen. You can even download your favourite series and films to watch without an internet connection.",
+    "size": 75,
+    "reviews": "75000K",
+    "ratingAvg": 4.6,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 1200000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 18000000 },
+      { "name": "5 star", "count": 51000000 }
+    ]
+  },
+  {
+    "image": "https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg",
+    "title": "Gmail",
+    "companyName": "Google LLC",
+    "id": 6,
+    "description": "Gmail is an easy to use email app that saves you time and keeps your messages safe. Get your messages instantly via push notifications, read and respond online and offline, and find any message quickly. With the Gmail app you get Gmail, plus Google Calendar, Google Meet and Google Chat all in one place.",
+    "size": 55,
+    "reviews": "120000K",
+    "ratingAvg": 4.1,
+    "downloads": "10000M",
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 3500000 },
+      { "name": "3 star", "count": 9000000 },
+      { "name": "4 star", "count": 28000000 },
+      { "name": "5 star", "count": 77500000 }
+    ]
+  },
+  {
+    "image": "https://www.logo.wine/a/logo/Facebook/Facebook-Logo.wine.svg",
+    "title": "Facebook",
+    "companyName": "Meta Platforms Inc",
+    "id": 7,
+    "description": "The Facebook app is the best way to connect with people you care about. Find friends, watch videos, explore groups, and stay up to date with local events. Share photos, send messages, and get notifications so you never miss a thing. Facebook brings you closer to the people and things you love.",
+    "size": 130,
+    "reviews": "195000K",
+    "ratingAvg": 3.9,
+    "downloads": "5000M",
+    "ratings": [
+      { "name": "1 star", "count": 8000000 },
+      { "name": "2 star", "count": 7000000 },
+      { "name": "3 star", "count": 15000000 },
+      { "name": "4 star", "count": 38000000 },
+      { "name": "5 star", "count": 127000000 }
+    ]
+  },
+  {
+    "image": "https://www.logo.wine/a/logo/GitHub/GitHub-Logo.wine.svg",
+    "title": "GitHub",
+    "companyName": "GitHub Inc",
+    "id": 8,
+    "description": "GitHub is where over 100 million developers shape the future of software, together. Contribute to open source projects, manage your repositories, review and merge pull requests, and keep up to date with activity on GitHub. Collaborate on code, track issues, and stay connected to the projects you care about most.",
+    "size": 45,
+    "reviews": "18000K",
+    "ratingAvg": 4.7,
+    "downloads": "100M",
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 12000000 }
+    ]
+  },
+  {
+    "image": "https://www.logo.wine/a/logo/Spotify/Spotify-Logo.wine.svg",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 9,
+    "description": "With Spotify, you can listen to music and podcasts for free. Stream tracks, create playlists, and discover new artists. Whether you're working out, studying, or relaxing, Spotify has the right music for every moment. Enjoy millions of songs from all around the world with or without a premium subscription.",
+    "size": 90,
+    "reviews": "145000K",
+    "ratingAvg": 4.4,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 1500000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 7000000 },
+      { "name": "4 star", "count": 30000000 },
+      { "name": "5 star", "count": 104500000 }
+    ]
+  },
+  {
+    "image": "https://www.logo.wine/a/logo/Google_Maps/Google_Maps-Logo.wine.svg",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 10,
+    "description": "Navigate your world faster and easier with Google Maps. Over 220 countries and territories mapped and hundreds of millions of businesses and places on the map. Get real-time GPS navigation, traffic, and transit info, and explore local neighborhoods by knowing where to eat, drink and go — no matter what part of the world you're in.",
+    "size": 100,
+    "reviews": "160000K",
+    "ratingAvg": 4.3,
+    "downloads": "10000M",
+    "ratings": [
+      { "name": "1 star", "count": 2500000 },
+      { "name": "2 star", "count": 3000000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 32000000 },
+      { "name": "5 star", "count": 114500000 }
+    ]
+  },
+  {
+    "image": "https://www.logo.wine/a/logo/TikTok/TikTok-Logo.wine.svg",
+    "title": "TikTok",
+    "companyName": "TikTok Pte Ltd",
+    "id": 11,
+    "description": "TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. Discover funny, talented, and creative videos from all around the world. Follow creators you love, go live, and express yourself through videos, effects, and music.",
+    "size": 115,
+    "reviews": "200000K",
+    "ratingAvg": 4.5,
+    "downloads": "5000M",
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 3000000 },
+      { "name": "3 star", "count": 9000000 },
+      { "name": "4 star", "count": 38000000 },
+      { "name": "5 star", "count": 148000000 }
+    ]
+  },
+  {
+    "image": "https://www.logo.wine/a/logo/Telegram_(software)/Telegram_(software)-Logo.wine.svg",
+    "title": "Telegram",
+    "companyName": "Telegram FZ LLC",
+    "id": 12,
+    "description": "Telegram is a messaging app with a focus on speed and security. It's super-fast, simple, and free. You can use Telegram on all your devices at the same time — your messages sync seamlessly across any number of your phones, tablets or computers. Telegram has over 700 million monthly active users.",
+    "size": 60,
+    "reviews": "88000K",
+    "ratingAvg": 4.6,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 3400000 },
+      { "name": "4 star", "count": 16000000 },
+      { "name": "5 star", "count": 67000000 }
+    ]
+  },
+  {
+    "image": "https://www.logo.wine/a/logo/Microsoft_Teams/Microsoft_Teams-Logo.wine.svg",
+    "title": "Microsoft Teams",
+    "companyName": "Microsoft Corporation",
+    "id": 13,
+    "description": "Microsoft Teams is the hub for teamwork in Microsoft 365. It's the place to have conversations, collaborate on files, and run meetings all in one place. Teams helps bring everyone together so they can be more productive. Stay connected with your colleagues, classmates, and friends using chats, calls, and video meetings.",
+    "size": 135,
+    "reviews": "52000K",
+    "ratingAvg": 4.0,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 1200000 },
+      { "name": "2 star", "count": 1800000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 14000000 },
+      { "name": "5 star", "count": 30000000 }
+    ]
+  },
+  {
+    "image": "https://www.logo.wine/a/logo/Slack_Technologies/Slack_Technologies-Logo.wine.svg",
+    "title": "Slack",
+    "companyName": "Slack Technologies LLC",
+    "id": 14,
+    "description": "Slack is a new way to communicate with your team. It's faster, better organised and more secure than email. Slack brings all your team's communication together, giving everyone a shared workspace where conversations are organised and accessible. With Slack, your whole team is always on the same page.",
+    "size": 70,
+    "reviews": "35000K",
+    "ratingAvg": 4.2,
+    "downloads": "100M",
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 2500000 },
+      { "name": "4 star", "count": 9000000 },
+      { "name": "5 star", "count": 22000000 }
+    ]
+  },
+  {
+    "image": "https://www.logo.wine/a/logo/Snapchat/Snapchat-Logo.wine.svg",
+    "title": "Snapchat",
+    "companyName": "Snap Inc",
+    "id": 15,
+    "description": "Snapchat is a fast and fun way to share the moment with your friends and family. Snap a photo or a video, add a caption, and send it to your best friends and family. Express yourself with Filters, Lenses, Bitmojis, and all kinds of fun effects. Explore Stories from your friends, and watch breaking news, entertainment, and fun Daily Shows.",
+    "size": 85,
+    "reviews": "110000K",
+    "ratingAvg": 4.1,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 2800000 },
+      { "name": "2 star", "count": 3200000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 22000000 },
+      { "name": "5 star", "count": 74000000 }
+    ]
+  }
+]
