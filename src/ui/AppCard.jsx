@@ -1,10 +1,11 @@
 import React from 'react';
 import { FaCloudDownloadAlt } from 'react-icons/fa';
 import { GoStarFill } from 'react-icons/go';
+import { Link } from 'react-router';
 
 const AppCard = ({app}) => {
   return (
-    <div
+    <Link to={`/apps/${app.id}`}
       className="bg-base-100 rounded-xl shadow-md overflow-hidden hover:shadow-lg transition cursor-pointer"
     >
       {/* Image */}
@@ -34,7 +35,7 @@ const AppCard = ({app}) => {
           </span>
         </div>
       </div>
-    </div>
+    </Link>
   );
 };
 

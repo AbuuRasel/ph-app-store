@@ -2,6 +2,7 @@ import React, { use, useEffect, useState } from 'react';
 import AppCard from '../../ui/AppCard';
 import { InfinitySpin } from 'react-loader-spinner';
 import useApps from '../../hooks/useApps';
+import { Link } from 'react-router';
 
 // const appsPromis = fetch('/data.json').then(res => res.json());
 
@@ -36,9 +37,9 @@ const TrendingApps = () => {
 
         {/* Show All Button */}
         <div className='flex justify-center mt-10'>
-          <button disabled={loading} className="btn btn-primary btn-lg rounded-md px-6 ">
+          <Link to='/apps' disabled={loading} className="btn btn-primary btn-lg rounded-md px-6 ">
             Show All
-          </button>
+          </Link>
         </div>
       </div>
     </section>
