@@ -11,7 +11,7 @@ const useApps = () => {
       setTimeout(() => {
         setApps(data)
         setLoding(false)
-      }, 1000);
+      }, 200);
     }
     fetchData();
 

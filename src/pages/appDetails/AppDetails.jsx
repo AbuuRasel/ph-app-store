@@ -1,7 +1,9 @@
-import React from "react";
+import React, { useContext, useState } from "react";
 import { useParams } from "react-router";
 import useApps from "../../hooks/useApps";
 import { InfinitySpin } from "react-loader-spinner";
+import { installedAppsContext } from "../../context/InstalledAppsProvider";
+import { toast } from "react-toastify";
 
 // ── helpers ──────────────────────────────────────────────────────────────────
 const formatCount = (n) => {
@@ -76,6 +78,13 @@ const RatingBar = ({ name, count, maxCount }) => {
 const AppDetails = () => {
   const { id } = useParams();
   const { loading, apps } = useApps();
+  const {installedApps,setInstalledApps} = useContext(installedAppsContext);
+
+  const handleInstalledApps = ()=>{
+    setInstalledApps([...installedApps,app]);
+    toast.success(`${app.title} Installed Successfully` );
+  }
+  console.log(installedApps);
 
   if (loading) {
     return (
@@ -86,6 +95,10 @@ const AppDetails = () => {
   }
 
   const app = apps.find((a) => a.id == id);
+  const isInstalled = installedApps.some(a => a.id === app.id);
+  
+  
+  
 
   if (!app) {
     return (
@@ -140,12 +153,12 @@ const AppDetails = () => {
                 <Stars value={app.ratingAvg} />
                 <span className="text-sm font-semibold text-gray-700">{app.ratingAvg}</span>
               </div>
-              <button className="inline-flex items-center gap-2 bg-indigo-600 hover:bg-indigo-700 active:scale-95 text-white text-sm font-semibold px-5 py-2.5 rounded-xl transition-all">
+              <button onClick={handleInstalledApps} className={`inline-flex items-center gap-2 bg-indigo-600 hover:bg-indigo-700 active:scale-95 text-white text-sm font-semibold px-5 py-2.5 rounded-xl transition-all`}>
                 <svg viewBox="0 0 15 15" fill="none" className="w-[14px] h-[14px]">
                   <path d="M7.5 1v8M7.5 9l-3-3m3 3l3-3" stroke="white" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" />
                   <path d="M2 12h11" stroke="white" strokeWidth="1.6" strokeLinecap="round" />
                 </svg>
-                Install Now
+                {isInstalled ? "Installed" : "Install Now"}
               </button>
             </div>
           </div>
